@@ -1,0 +1,175 @@
+[
+  {
+    "file": "assets/art/floor.svg",
+    "type": "vector",
+    "role": "dry paving",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/floor_grown.svg",
+    "type": "vector",
+    "role": "restored floor",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/wall.svg",
+    "type": "vector",
+    "role": "ivy covered stone wall",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/plate_off.svg",
+    "type": "vector",
+    "role": "unpressed sun switch",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/plate_on.svg",
+    "type": "vector",
+    "role": "pressed sun switch",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/gate_closed.svg",
+    "type": "vector",
+    "role": "closed sun gate",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/gate_open.svg",
+    "type": "vector",
+    "role": "open sun gate",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/terminal_off.svg",
+    "type": "vector",
+    "role": "inactive water terminal",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/terminal_on.svg",
+    "type": "vector",
+    "role": "flowing water terminal",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/pip_0.svg",
+    "type": "vector",
+    "role": "Pip animation frame",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/pip_1.svg",
+    "type": "vector",
+    "role": "Pip animation frame",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/pip_2.svg",
+    "type": "vector",
+    "role": "Pip animation frame",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/pip_3.svg",
+    "type": "vector",
+    "role": "Pip animation frame",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/echo_0.svg",
+    "type": "vector",
+    "role": "Echo animation frame",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/echo_1.svg",
+    "type": "vector",
+    "role": "Echo animation frame",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/echo_2.svg",
+    "type": "vector",
+    "role": "Echo animation frame",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/art/echo_3.svg",
+    "type": "vector",
+    "role": "Echo animation frame",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "assets/audio/move.wav",
+    "type": "audio",
+    "role": "movement click",
+    "duration": 0.16,
+    "sample_rate": 22050,
+    "channels": 1,
+    "bit_depth": 16
+  },
+  {
+    "file": "assets/audio/record.wav",
+    "type": "audio",
+    "role": "record start or rewind",
+    "duration": 0.36,
+    "sample_rate": 22050,
+    "channels": 1,
+    "bit_depth": 16
+  },
+  {
+    "file": "assets/audio/gate.wav",
+    "type": "audio",
+    "role": "gate opening chime",
+    "duration": 0.42,
+    "sample_rate": 22050,
+    "channels": 1,
+    "bit_depth": 16
+  },
+  {
+    "file": "assets/audio/reset.wav",
+    "type": "audio",
+    "role": "reset descending cue",
+    "duration": 0.4,
+    "sample_rate": 22050,
+    "channels": 1,
+    "bit_depth": 16
+  },
+  {
+    "file": "assets/audio/restore.wav",
+    "type": "audio",
+    "role": "restoration arpeggio",
+    "duration": 1.2,
+    "sample_rate": 22050,
+    "channels": 1,
+    "bit_depth": 16
+  },
+  {
+    "file": "assets/audio/garden_loop.wav",
+    "type": "audio",
+    "role": "quiet repeating garden melody",
+    "duration": 8,
+    "sample_rate": 22050,
+    "channels": 1,
+    "bit_depth": 16
+  }
+]

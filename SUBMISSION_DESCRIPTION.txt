@@ -1,0 +1,9 @@
+This submission presents the Week 3 creation and integration of visual and audio assets for Echo Garden. It builds on the three-room puzzle prototype from Week 2 and focuses on making the garden setting, character feedback, and puzzle states more consistent and expressive.
+
+The visual package contains 17 editable SVG files, including four animation frames each for Pip and the Echo, dry and restored floor tiles, an ivy-covered wall, pressure-plate states, gate states, and water-terminal states. A shared palette of cream, green, gold, and teal connects these assets to the game's garden-restoration theme. The Echo uses transparency and a dashed outline to distinguish it from the player character.
+
+The audio package contains five synthesized sound effects for movement, recording, gate opening, reset, and restoration, together with an eight-second background melody. Separate controls allow players to enable or disable effects and music. Audio starts only after the player chooses to enable it.
+
+The updated project loads the artwork and audio from organized asset folders. Character frame changes, movement interpolation, a gate flash, and restoration particles add feedback while preserving the existing turn-based gameplay rules. Reduced-motion support disables animated effects while retaining visual state changes.
+
+The accompanying report explains the creation process, file formats, integration approach, testing, and remaining limitations. All 21 automated gameplay and integration tests passed, and structural checks validated all 23 runtime assets. The vector contact sheet was visually reviewed. Real-browser animation and audio playback still require manual review. The source files, generation script, asset manifest, documentation, and updated game are included for inspection and further development.

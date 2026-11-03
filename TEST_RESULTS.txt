@@ -1,0 +1,29 @@
+✔ walls block movement and invalid commands do not advance (3.434341ms)
+✔ room 1 is solvable and completion freezes movement (0.527436ms)
+✔ recording disabled in room 1; blank recording rejected in room 2 (0.333093ms)
+✔ recording rewinds player and replays one command per turn (0.418661ms)
+✔ room 2 solution crosses gate and Echo keeps holding plate (0.380835ms)
+✔ room 3 solution is reachable with eight-command limit (0.370969ms)
+✔ eighth recording command automatically rewinds (0.373013ms)
+✔ blocked Echo commands consume a replay step (0.369918ms)
+✔ reset clears recording, Echo, completion and turns (0.463308ms)
+✔ terminal cannot complete during recording or from another tile (0.419262ms)
+✔ closed gate blocks entry but occupant may leave (0.278571ms)
+✔ both actors use gate state from start of turn (0.254423ms)
+✔ level switching resets session; invalid level rejected (0.566896ms)
+✔ UI boots with three room buttons and eight trail slots (8.903722ms)
+✔ keyboard completes room and next button loads next terrace (5.683244ms)
+✔ UI records, replays and restores second room (6.755321ms)
+✔ UI remains playable when storage fails (2.491759ms)
+✔ asset registry includes all seventeen vector images and six sounds (2.471468ms)
+✔ effects are opt in and movement plays the movement file (2.972644ms)
+✔ music toggle starts loop and returns to off state (3.725971ms)
+✔ art loading failure provides recovery guidance without breaking play (2.554033ms)
+ℹ tests 21
+ℹ suites 0
+ℹ pass 21
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 222.458879

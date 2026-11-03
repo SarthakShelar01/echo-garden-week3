@@ -1,0 +1,24 @@
+floor.svg: valid self-contained 96x96 SVG
+floor_grown.svg: valid self-contained 96x96 SVG
+wall.svg: valid self-contained 96x96 SVG
+plate_off.svg: valid self-contained 96x96 SVG
+plate_on.svg: valid self-contained 96x96 SVG
+gate_closed.svg: valid self-contained 96x96 SVG
+gate_open.svg: valid self-contained 96x96 SVG
+terminal_off.svg: valid self-contained 96x96 SVG
+terminal_on.svg: valid self-contained 96x96 SVG
+pip_0.svg: valid self-contained 96x96 SVG
+pip_1.svg: valid self-contained 96x96 SVG
+pip_2.svg: valid self-contained 96x96 SVG
+pip_3.svg: valid self-contained 96x96 SVG
+echo_0.svg: valid self-contained 96x96 SVG
+echo_1.svg: valid self-contained 96x96 SVG
+echo_2.svg: valid self-contained 96x96 SVG
+echo_3.svg: valid self-contained 96x96 SVG
+move.wav: mono 16-bit 22050 Hz PCM, non-silent, no full-scale clipping, quiet endpoints
+record.wav: mono 16-bit 22050 Hz PCM, non-silent, no full-scale clipping, quiet endpoints
+gate.wav: mono 16-bit 22050 Hz PCM, non-silent, no full-scale clipping, quiet endpoints
+reset.wav: mono 16-bit 22050 Hz PCM, non-silent, no full-scale clipping, quiet endpoints
+restore.wav: mono 16-bit 22050 Hz PCM, non-silent, no full-scale clipping, quiet endpoints
+garden_loop.wav: mono 16-bit 22050 Hz PCM, non-silent, no full-scale clipping, quiet endpoints
+23 assets validated. This is structural validation, not listening or real-browser playback testing.
